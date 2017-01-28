@@ -1,0 +1,208 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Electronic{oculus_rift,
+  Title                    = {Powering the Rift},
+  Author                   = {Atman Binstock},
+  Month                    = {5},
+  Organization             = {Oculus},
+  Url                      = {https://www3.oculus.com/en-us/blog/powering-the-rift/},
+  Year                     = {2015},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.03}
+}
+
+@Electronic{ply_format,
+  Title                    = {PLY - Polygon File Format},
+  Author                   = {Paul Bourke},
+  Url                      = {http://paulbourke.net/dataformats/ply/},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.03}
+}
+
+@Electronic{vive-lasery,
+  Title                    = {This Is How Valve’s Amazing Lighthouse Tracking Technology Works},
+  Author                   = {Sean Buckley},
+  Month                    = {5},
+  Url                      = {http://gizmodo.com/this-is-how-valve-s-amazing-lighthouse-tracking-technol-1705356768},
+  Year                     = {2015},
+
+  Owner                    = {martin},
+  Timestamp                = {2017.01.03}
+}
+
+@Electronic{vive_verge,
+  Title                    = {Valve's VR headset is called the Vive and it's made by HTC},
+  Author                   = {Dante D'Orazio and Vlad Savov},
+  Organization             = {The Verge},
+  Url                      = {http://www.theverge.com/2015/3/1/8127445/htc-vive-valve-vr-headset},
+
+  Timestamp                = {2016.03.01}
+}
+
+@Electronic{khronos_vr,
+  Title                    = {Khronos Group vyvine univerzální VR standard},
+  Author                   = {David Ježek},
+  Month                    = {12},
+  Url                      = {http://diit.cz/clanek/khronos-group-vyvine-univerzalni-vr-standard},
+  Year                     = {2016},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.09}
+}
+
+@Electronic{vive_bbc,
+  Title                    = {HTC reveals virtual reality headset with Valve at MWC},
+  Author                   = {Leo Kelion},
+  Organization             = {BBC},
+  Url                      = {http://www.bbc.co.uk/news/technology-31664948},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.03}
+}
+
+@Electronic{vive_gamespot,
+  Title                    = {Valve and HTC reveal Vive VR headset},
+  Author                   = {Emanuel Maiberg},
+  Organization             = {GameSpot},
+  Url                      = {http://www.gamespot.com/articles/valve-and-htc-reveal-vive-vr-headset/1100-6425606/},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.03}
+}
+
+@InProceedings{pcl_icra,
+  Title                    = {3D is here: Point Cloud Library (PCL)},
+  Author                   = {Radu Bogdan Rusu and Steve Cousins},
+  Booktitle                = {IEEE International Conference on Robotics and Automation (ICRA)},
+  Year                     = {2011},
+
+  Address                  = {Shanghai, China},
+  Month                    = {May 9-13},
+
+  File                     = {:http\://pointclouds.org/assets/pdf/pcl_icra2011.pdf:URL}
+}
+
+@Electronic{alpha-blending,
+  Title                    = {Alpha Blending},
+  Url                      = {https://en.wikipedia.org/wiki/Alpha_compositing#Alpha_blending},
+
+  Owner                    = {martin},
+  Timestamp                = {2017.01.04}
+}
+
+@Electronic{frustum-culling,
+  Title                    = {View Frustum Culling},
+  Url                      = {http://www.lighthouse3d.com/tutorials/view-frustum-culling/},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.22}
+}
+
+@Electronic{glew,
+  Title                    = {The OpenGL Extension Wrangler Library},
+  Url                      = {http://glew.sourceforge.net/index.html},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.09}
+}
+
+@Electronic{glew-lic,
+  Title                    = {Licence GLEW},
+  Url                      = {http://glew.sourceforge.net/glew.txt},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.09}
+}
+
+@Electronic{glfw3,
+  Title                    = {GLFW},
+  Url                      = {http://www.glfw.org},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.09}
+}
+
+@Electronic{khronos-lic,
+  Title                    = {Khronos Licence},
+  Url                      = {http://glew.sourceforge.net/khronos.txt},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.09}
+}
+
+@Electronic{mesa3d-lic,
+  Title                    = {Mesa 3-D Licence},
+  Url                      = {http://glew.sourceforge.net/mesa.txt},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.09}
+}
+
+@Electronic{opengl,
+  Title                    = {OpenGL},
+  Url                      = {https://www.opengl.org},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.09}
+}
+
+@Electronic{pcl,
+  Title                    = {Point Cloud Library},
+  Url                      = {http://pointclouds.org/},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.03}
+}
+
+@Electronic{tri_opt_1,
+  Title                    = {Pre and post-T\&L vertex caches optimization},
+  Url                      = {http://gamedev.stackexchange.com/a/34130},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.13}
+}
+
+@Electronic{tri_opt_2,
+  Title                    = {To Strip or Not To Strip},
+  Url                      = {http://hacksoflife.blogspot.cz/2010/01/to-strip-or-not-to-strip.html},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.13}
+}
+
+@Electronic{vao,
+  Title                    = {Vertex Array Object},
+  Url                      = {https://www.khronos.org/opengl/wiki/Vertex_Specification#Vertex_Array_Object},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.22}
+}
+
+@Electronic{vbo,
+  Title                    = {Vertex Buffer Object},
+  Url                      = {https://www.khronos.org/opengl/wiki/Vertex_Specification#Vertex_Buffer_Object},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.22}
+}
+
+@Electronic{vfx1,
+  Title                    = {VFX1},
+  Url                      = {https://en.wikipedia.org/wiki/VFX1_Headgear},
+
+  Owner                    = {martin},
+  Timestamp                = {2017.01.03}
+}
+
+@Electronic{zlib-libpng,
+  Title                    = {zlib/libpng licence},
+  Url                      = {https://opensource.org/licenses/zlib-license.php},
+
+  Owner                    = {martin},
+  Timestamp                = {2016.12.09}
+}
+

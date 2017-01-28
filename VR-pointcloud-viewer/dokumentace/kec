@@ -1,0 +1,55 @@
+dobrý den
+
+vážená poroto
+
+jmenuji se martin bařinka a připravil jsem si pro vás prezentaci mé semestrální práce na téma Programový modul pro zobrazení mračna bodů ve virtuální realitě
+
+cílem práce bylo seznámit se s technologiemi pro zobrazení virtuální reality
+
+vybrat vhodný framework pro programový modul
+
+vybrat vhodný formát ukládání mračen bodů
+
+a realizovat základ programu pro zobrazení mračna bodů
+
+
+pro zobrazení ve virtuální realitě se používají tzv headsety 
+
+jeden z prvních komerčně dostupných headsetů byl VFX1, prodával se v 90 letech, byl ale velmi limitován tehdejšími technologiemi proto měl velmi nízké rozlišení a zorný úhel
+
+v současné době zažívají tyto headsety návrat protože technologie dovolují vytvořit dobrý vjem
+
+jako první byl Ohlášen vývoj riftu 2012, hotová verze vyšla v roce 2016
+v roce 2015 oznámilo HTC vývoj vlastního headsetu, který také vyšel v roce 2016
+
+existuje množství dalších headsetů, většina z nich nejde připojit k PC, proto se jimi nezabývám
+
+funkcionalitu headsetům zajištují ovladače do pc. každý výrobce má své vlastni proprietární api což velmi tříští trh, htc se dohodlo s valve které jim vyvinulo software k vive, valve ale spolupracuje i s oculusem a dalšími a má podporu pro rift
+
+dále jsem musel zvolit vhodný formát, který se bude používat pro načítání dat do mého modulu
+
+tento formát musí být široce podporován aby bylo možné do něj ukládat v ostatních programech
+musí být flexibilní aby bylo možné v budoucnu ukládat více dat do těchot souborů
+a musí být jednoduché ho implementovat do mého modulu
+
+jako nejvhodnější kandidát jsem zvolil formát ply, podporuje ukládání mračeni i meshů, a podporuje přidávání vlastních dat do souboru.
+
+před implementaci modulu jsem měl možnost zvolik několik frameworků
+
+použít nějaký herní engine, v tomto případě již dva velké enginy unity a unreal podporují velké množství headsetů
+tyto enginy sice usnadňují práci s headsety a vlastním vykreslováním ale jsou spíše optimalizované na nižší geometrickou náročnost a pokročilé grafické efekty což je opak mých požadavků
+další nevýhoda je problémové přidávání externích knihoven a také licenční poplatky v některých případech
+
+proto jsem se rozhodl tento modul napsat za pomocí základníh knihoven
+modul jsem navrhl multiplatformní, funguje jak s ms windows tak linux, je napsaná v c++ a je použito opengl
+
+kvůli již očekávané náročnosti je celá aplikace psána s důrazem na maximální výkon
+
+modul umožňuje měnit velikost bodů a umí prolnout skalární pole do barvy
+
+modul je možné ovládat klávesnicí i ovladačem
+
+zde je vidět ukázka změny velikosti bodů
+a prolnutí skalárního pole
+tady jsem si pro vás připravil ukázku
+děkuji za pozornost

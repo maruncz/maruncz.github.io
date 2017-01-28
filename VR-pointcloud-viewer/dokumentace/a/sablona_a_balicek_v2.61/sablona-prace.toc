@@ -1,0 +1,35 @@
+\select@language {czech}
+\contentsline {chapter}{\IeC {\'U}vod}{8}{section*.4}
+\contentsline {chapter}{\numberline {1}Teoretick\IeC {\'a} \IeC {\v c}\IeC {\'a}st studentsk\IeC {\'e} pr\IeC {\'a}ce}{9}{chapter.5}
+\contentsline {section}{\numberline {1.1}Virtu\IeC {\'a}ln\IeC {\'\i } realita}{9}{section.6}
+\contentsline {subsection}{\numberline {1.1.1}Stereoskopie}{9}{subsection.7}
+\contentsline {subsubsection}{Anaglyf}{9}{section*.8}
+\contentsline {subsubsection}{Polarizace}{9}{section*.9}
+\contentsline {subsubsection}{Aktivn\IeC {\'\i } zatm\IeC {\'\i }vac\IeC {\'\i } br\IeC {\'y}le}{10}{section*.10}
+\contentsline {subsubsection}{LCD br\IeC {\'y}le}{10}{section*.11}
+\contentsline {subsection}{\numberline {1.1.2}Headsety Virtu\IeC {\'a}ln\IeC {\'\i } reality}{10}{subsection.12}
+\contentsline {subsubsection}{VFX1}{10}{section*.13}
+\contentsline {subsubsection}{HTC Vive}{10}{section*.15}
+\contentsline {subsubsection}{Oculus Rift}{11}{section*.17}
+\contentsline {section}{\numberline {1.2}Mo\IeC {\v z}nosti programov\IeC {\'a}n\IeC {\'\i } za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i } pro VR}{12}{section.19}
+\contentsline {chapter}{\numberline {2}V\IeC {\'y}b\IeC {\v e}r datov\IeC {\'e}ho form\IeC {\'a}tu a Implementace programu}{14}{chapter.20}
+\contentsline {section}{\numberline {2.1}Datov\IeC {\'y} form\IeC {\'a}t}{14}{section.21}
+\contentsline {subsection}{\numberline {2.1.1}Textov\IeC {\'y} form\IeC {\'a}t}{14}{subsection.22}
+\contentsline {subsection}{\numberline {2.1.2}Stereo Lithography STL}{14}{subsection.23}
+\contentsline {subsection}{\numberline {2.1.3}Wavefront OBJ}{15}{subsection.24}
+\contentsline {subsection}{\numberline {2.1.4}Polygon file format PLY}{15}{subsection.25}
+\contentsline {subsection}{\numberline {2.1.5}Point Cloud Data}{15}{subsection.26}
+\contentsline {subsection}{\numberline {2.1.6}Fin\IeC {\'a}ln\IeC {\'\i } v\IeC {\'y}b\IeC {\v e}r}{15}{subsection.27}
+\contentsline {section}{\numberline {2.2}Engine}{16}{section.28}
+\contentsline {subsection}{\numberline {2.2.1}Po\IeC {\v z}adavky virtu\IeC {\'a}ln\IeC {\'\i } reality}{16}{subsection.29}
+\contentsline {subsection}{\numberline {2.2.2}Vykreslov\IeC {\'a}n\IeC {\'\i } bod\IeC {\r u}}{16}{subsection.30}
+\contentsline {subsection}{\numberline {2.2.3}Omezen\IeC {\'\i } procesorov\IeC {\'e} z\IeC {\'a}t\IeC {\v e}\IeC {\v z}e}{17}{subsection.31}
+\contentsline {subsection}{\numberline {2.2.4}Podporovan\IeC {\'y} form\IeC {\'a}t}{17}{subsection.32}
+\contentsline {subsection}{\numberline {2.2.5}Segmentace mra\IeC {\v c}na}{18}{subsection.33}
+\contentsline {subsection}{\numberline {2.2.6}Grafick\IeC {\'e} rozhran\IeC {\'\i }}{18}{subsection.34}
+\contentsline {subsection}{\numberline {2.2.7}Zobrazen\IeC {\'\i } mra\IeC {\v c}na}{19}{subsection.35}
+\contentsline {subsubsection}{Zm\IeC {\v e}na velikosti bod\IeC {\r u}}{19}{section*.36}
+\contentsline {subsubsection}{Zobrazen\IeC {\'\i } skal\IeC {\'a}rn\IeC {\'\i }ho pole}{19}{section*.37}
+\contentsline {section}{\numberline {2.3}Ovl\IeC {\'a}d\IeC {\'a}n\IeC {\'\i } programu}{21}{section.41}
+\contentsline {chapter}{\numberline {3}Z\IeC {\'a}v\IeC {\v e}r}{23}{chapter.44}
+\contentsline {chapter}{Literatura}{24}{section*.46}

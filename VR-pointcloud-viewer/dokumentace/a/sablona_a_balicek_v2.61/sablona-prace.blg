@@ -1,0 +1,112 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: sablona-prace.aux
+A level-1 auxiliary file: text/uvod.aux
+A level-1 auxiliary file: text/reseni.aux
+A level-1 auxiliary file: text/vysledky.aux
+A level-1 auxiliary file: text/zaver.aux
+A level-1 auxiliary file: text/literatura.aux
+The style file: czechiso.bst
+A level-1 auxiliary file: text/prilohy.aux
+Database file #1: dokumentace.bib
+Warning--entry type for "oculus_rift" isn't style-file defined
+--line 5 of file dokumentace.bib
+Warning--entry type for "ply_format" isn't style-file defined
+--line 17 of file dokumentace.bib
+Warning--entry type for "vive-lasery" isn't style-file defined
+--line 26 of file dokumentace.bib
+Warning--entry type for "khronos_vr" isn't style-file defined
+--line 46 of file dokumentace.bib
+Warning--entry type for "vive_bbc" isn't style-file defined
+--line 57 of file dokumentace.bib
+Warning--entry type for "vive_gamespot" isn't style-file defined
+--line 67 of file dokumentace.bib
+Warning--entry type for "alpha-blending" isn't style-file defined
+--line 89 of file dokumentace.bib
+Warning--entry type for "frustum-culling" isn't style-file defined
+--line 97 of file dokumentace.bib
+Warning--entry type for "glew" isn't style-file defined
+--line 105 of file dokumentace.bib
+Warning--entry type for "glew-lic" isn't style-file defined
+--line 113 of file dokumentace.bib
+Warning--entry type for "glfw3" isn't style-file defined
+--line 121 of file dokumentace.bib
+Warning--entry type for "khronos-lic" isn't style-file defined
+--line 129 of file dokumentace.bib
+Warning--entry type for "mesa3d-lic" isn't style-file defined
+--line 137 of file dokumentace.bib
+Warning--entry type for "opengl" isn't style-file defined
+--line 145 of file dokumentace.bib
+Warning--entry type for "pcl" isn't style-file defined
+--line 153 of file dokumentace.bib
+Warning--entry type for "tri_opt_1" isn't style-file defined
+--line 161 of file dokumentace.bib
+Warning--entry type for "tri_opt_2" isn't style-file defined
+--line 169 of file dokumentace.bib
+Warning--entry type for "vao" isn't style-file defined
+--line 177 of file dokumentace.bib
+Warning--entry type for "vbo" isn't style-file defined
+--line 185 of file dokumentace.bib
+Warning--entry type for "vfx1" isn't style-file defined
+--line 193 of file dokumentace.bib
+Warning--entry type for "zlib-libpng" isn't style-file defined
+--line 201 of file dokumentace.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--to sort, need author or key in vfx1
+Warning--to sort, need author or key in pcl
+Warning--to sort, need author or key in opengl
+Warning--to sort, need author or key in glew
+Warning--to sort, need author or key in glew-lic
+Warning--to sort, need author or key in mesa3d-lic
+Warning--to sort, need author or key in khronos-lic
+Warning--to sort, need author or key in glfw3
+Warning--to sort, need author or key in zlib-libpng
+Warning--to sort, need author or key in tri_opt_1
+Warning--to sort, need author or key in tri_opt_2
+Warning--to sort, need author or key in vbo
+Warning--to sort, need author or key in vao
+Warning--to sort, need author or key in frustum-culling
+Warning--to sort, need author or key in alpha-blending
+Warning--empty pages in pcl_icra
+You've used 22 entries,
+            3151 wiz_defined-function locations,
+            737 strings with 7422 characters,
+and the built_in function-call counts, 5307 in all, are:
+= -- 305
+> -- 71
+< -- 0
++ -- 41
+- -- 16
+* -- 213
+:= -- 490
+add.period$ -- 26
+call.type$ -- 22
+change.case$ -- 54
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 551
+empty$ -- 686
+format.name$ -- 17
+if$ -- 1176
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 123
+newline$ -- 97
+num.names$ -- 14
+pop$ -- 404
+preamble$ -- 1
+purify$ -- 52
+quote$ -- 0
+skip$ -- 288
+stack$ -- 0
+substring$ -- 111
+swap$ -- 194
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 88
+warning$ -- 16
+while$ -- 14
+width$ -- 24
+write$ -- 153
+(There were 37 warnings)

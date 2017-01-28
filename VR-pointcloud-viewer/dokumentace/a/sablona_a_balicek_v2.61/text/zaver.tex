@@ -1,0 +1,9 @@
+\chapter{Závěr}
+
+Jako datový formát jsem vybral PLY, pro svou flexibilitu. V případě, že by se využila funkcionalita Point Cloud library by se využil i formát PCD.
+
+Aplikace svůj demonstrační účel splnila. Lze načítat nekolik mračen bodů, pohybovat se v prostoru, měnit velkosti bodů a zobrazit skalární pole. Hardwarové nároky počítače jsou závislé pouze na složitosti načteného mračna.
+
+Pro další vývoj aplikace bude vhodné přehodnotit celkový návrh a vybrat vhodnou knihovnu pro grafické rozhraní, aby bylo možné implementovat lepší uživatelské rozhraní, díky kterému bude možné pohodlné ovládání po přidání dalších funkcí a také získat uživatelskou zpětnou vazbu pro zkvalitnění 
+
+Další vylepšování by se mohlo týkat výkonu. Pro virtuální realitu se musí vykreslovat vždy dva nezávislé snímky. Tyto snímky by mohly vykreslovat dvě grafické karty. V tomto by velmi pomohlo použití nových API jako je Vulkan nebo DirectX12, které jsou na tuto situaci lépe navrženy než předchozí API.

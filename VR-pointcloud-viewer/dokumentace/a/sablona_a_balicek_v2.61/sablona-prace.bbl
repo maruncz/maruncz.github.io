@@ -1,0 +1,101 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{alpha-blending}
+Alpha Blending.
+\newline\urlprefix\url{https://en.wikipedia.org/wiki/Alpha_compositing#Alpha_blending}
+
+\bibitem{glfw3}
+GLFW.
+\newline\urlprefix\url{http://www.glfw.org}
+
+\bibitem{khronos-lic}
+Khronos Licence.
+\newline\urlprefix\url{http://glew.sourceforge.net/khronos.txt}
+
+\bibitem{glew-lic}
+Licence GLEW.
+\newline\urlprefix\url{http://glew.sourceforge.net/glew.txt}
+
+\bibitem{mesa3d-lic}
+Mesa 3-D Licence.
+\newline\urlprefix\url{http://glew.sourceforge.net/mesa.txt}
+
+\bibitem{opengl}
+OpenGL.
+\newline\urlprefix\url{https://www.opengl.org}
+
+\bibitem{glew}
+The OpenGL Extension Wrangler Library.
+\newline\urlprefix\url{http://glew.sourceforge.net/index.html}
+
+\bibitem{pcl}
+Point Cloud Library.
+\newline\urlprefix\url{http://pointclouds.org/}
+
+\bibitem{tri_opt_1}
+Pre and post-T\&L vertex caches optimization.
+\newline\urlprefix\url{http://gamedev.stackexchange.com/a/34130}
+
+\bibitem{tri_opt_2}
+To Strip or Not To Strip.
+\newline\urlprefix\url{http://hacksoflife.blogspot.cz/2010/01/to-strip-or-not-to-strip.html}
+
+\bibitem{vao}
+Vertex Array Object.
+\newline\urlprefix\url{https://www.khronos.org/opengl/wiki/Vertex_Specification#Vertex_Array_Object}
+
+\bibitem{vbo}
+Vertex Buffer Object.
+\newline\urlprefix\url{https://www.khronos.org/opengl/wiki/Vertex_Specification#Vertex_Buffer_Object}
+
+\bibitem{vfx1}
+VFX1.
+\newline\urlprefix\url{https://en.wikipedia.org/wiki/VFX1_Headgear}
+
+\bibitem{frustum-culling}
+View Frustum Culling.
+\newline\urlprefix\url{http://www.lighthouse3d.com/tutorials/view-frustum-culling/}
+
+\bibitem{zlib-libpng}
+zlib/libpng licence.
+\newline\urlprefix\url{https://opensource.org/licenses/zlib-license.php}
+
+\bibitem{oculus_rift}
+Binstock, A.: Powering the Rift. 5 2015.
+\newline\urlprefix\url{https://www3.oculus.com/en-us/blog/powering-the-rift/}
+
+\bibitem{ply_format}
+Bourke, P.: PLY - Polygon File Format.
+\newline\urlprefix\url{http://paulbourke.net/dataformats/ply/}
+
+\bibitem{vive-lasery}
+Buckley, S.: This Is How Valve’s Amazing Lighthouse Tracking Technology
+  Works. 5 2015.
+\newline\urlprefix\url{http://gizmodo.com/this-is-how-valve-s-amazing-lighthouse-tracking-technol-1705356768}
+
+\bibitem{khronos_vr}
+Ježek, D.: Khronos Group vyvine univerzální VR standard. 12 2016.
+\newline\urlprefix\url{http://diit.cz/clanek/khronos-group-vyvine-univerzalni-vr-standard}
+
+\bibitem{vive_bbc}
+Kelion, L.: HTC reveals virtual reality headset with Valve at MWC.
+\newline\urlprefix\url{http://www.bbc.co.uk/news/technology-31664948}
+
+\bibitem{vive_gamespot}
+Maiberg, E.: Valve and HTC reveal Vive VR headset.
+\newline\urlprefix\url{http://www.gamespot.com/articles/valve-and-htc-reveal-vive-vr-headset/1100-6425606/}
+
+\bibitem{pcl_icra}
+Rusu, R.~B.; Cousins, S.: 3D is here: Point Cloud Library (PCL). In \emph{IEEE
+  International Conference on Robotics and Automation (ICRA)}, Shanghai, China,
+  May 9-13 2011.
+
+\end{thebibliography}
